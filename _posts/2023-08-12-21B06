@@ -1,0 +1,55 @@
+---
+layout: single
+title:  "21B06"
+categories: "Exams_LinearAlgebra"
+tag: [21B06, 임용시험_기출문제, 선형대수]
+author_profile: false
+sidebar:
+  nav: "docs"
+use_math: true
+---
+
+### 2021학년도 중등학교교사 임용후보자 선정경쟁시험 전공B 6번
+
+행렬
+
+$$
+A = \begin{bmatrix}
+    3 & \phantom{-}2 & 2\\
+    0 & \phantom{-}3 & 1\\
+    0 & -2 & 0
+\end{bmatrix}
+$$
+
+에 대하여
+$A = PDP^{-1}$을 만족시키는 행렬
+
+$$
+D = \begin{bmatrix}
+    d_1 & 0 & 0 \\
+    0 & d_2 & 0 \\
+    0 & 0 & d_3
+\end{bmatrix}
+$$
+
+와 가역행렬
+$P$를 풀이 과정과 함께 쓰시오.
+또한 행렬 $A^n$의 $2$행 $3$열의 성분을 구하시오.
+(단, $d_1 \le d_2 \le d_3$이고 $n$은 자연수이다.) [4점]
+
+<details markdown="1">
+<summary>체크리스트 보기/숨기기</summary>
+
+- 대각화가능한 정사각행렬 $A$에 대하여 $P^{-1}AP = D$인
+  가역행렬 $P$와 대각행렬 $D$를 찾을 수 있다.
+  또한 이를 이용하여 임의의 자연수 $n$($A$가 가역행렬인 경우는 정수 $n$)에 대하여 $A^n$의
+  각 성분을 계산할 수 있다.
+</details>
+
+
+
+<details markdown="1">
+<summary>모범 답안 보기/숨기기</summary>
+
+준비중입니다.
+</details>
